@@ -18,7 +18,7 @@ Record real interactions in the intended host. Keep private information and cred
 
 ## Outstanding
 
-- Update the master Admin edition and its build process so both editions retain the MCP connection on future updates.\n- Verify the private development edition can connect to the live server in ChatGPT, and run the review cases in that host.
+- Publish the prepared master Admin update from the GitHub build process and verify the installed Admin edition retains the MCP connection. The build script now includes the connection in both editions; the Admin plugin has not yet been updated.\n- Verify the private development edition can connect to the live server in ChatGPT, and run the review cases in that host.
 - Complete a real demo recording and provide a reviewer-accessible URL.
 - Prepare the MCP-backed submission bundle, confirm listing text matches the service, and review the published privacy disclosure for Cloudflare hosting.
 - Complete OpenAI's domain verification, server scan, review information and required policy attestations.
