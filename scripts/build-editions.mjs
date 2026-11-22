@@ -19,8 +19,8 @@ if (publicCore.includes("SAM_ADMIN_ONLY") || publicCore.includes("When the owner
   throw new Error("Admin-only material remained in public edition.");
 }
 const editions = [
-  { id: "job-search-sam-admin", title: "Job Search SAM Admin", short: "Administer Job Search SAM", version: "0.1.2", description: "Private owner workflow for maintaining the Job Search SAM master and coordinating releases.", skill: master },
-  { id: "job-search-sam-subscriber", title: "Job Search SAM Public", short: "Guided job search", version: "0.1.7", description: "Guided job search and application preparation using available tools.", skill: publicCore }
+  { id: "job-search-sam-admin", title: "Job Search SAM Admin", short: "Administer Job Search SAM", version: "0.1.3", description: "Private owner workflow for maintaining the Job Search SAM master and coordinating releases.", skill: master },
+  { id: "job-search-sam-subscriber", title: "Job Search SAM Public", short: "Guided job search", version: "0.1.8", description: "Guided job search and application preparation using available tools.", skill: publicCore }
 ];
 for (const edition of editions) {
   const manifest = structuredClone(source);
@@ -49,5 +49,6 @@ for (const edition of editions) {
     await copyFile("editions/subscriber-terms-draft.md", join(output, "skills", edition.id, "references", "ai-terms-draft.md"));
   }
   await copyFile("assets/icon.svg", join(output, "assets", "icon.svg"));
+  await copyFile("mcp.json", join(output, "mcp.json"));
   console.log("Built " + output);
 }
