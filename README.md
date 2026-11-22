@@ -5,9 +5,9 @@ ChatGPT job search agent
 
 Job Search SAM can produce inaccurate, incomplete, outdated, or biased information. Review job postings, application materials, recipients, and attachments before relying on or submitting them. Connected services may receive information you choose to share, and no system can guarantee perfect security.
 
-The [AI Use Statement and Terms of Use](editions/subscriber-terms-draft.md) explains these risks, the proposed user agreement, third-party services and fees, privacy and security considerations, and limitations of liability. It is a draft for review, not an operative or accepted agreement.
+The [AI Use Statement and Terms of Use](docs/terms-of-use.md) explains these risks, the proposed user agreement, third-party services and fees, privacy and security considerations, and limitations of liability. It is a draft for review, not an operative or accepted agreement.
 
-A [privacy policy draft](docs/privacy-policy-draft.md) is available for review. Before public launch, the provider must finalize and publish appropriate terms and a privacy policy, arrange legal review, and implement any required agreement-acceptance and security processes. The public-use edition is free and remains private until it is approved and published.
+The [privacy policy](docs/privacy-policy.md) describes current data practices. Before public launch, the provider must finalize and publish appropriate terms and a privacy policy, arrange legal review, and implement any required agreement-acceptance and security processes. The public-use edition is free and remains private until it is approved and published.
 
 ## Admin master and public edition
 
