@@ -20,7 +20,7 @@ if (publicCore.includes("SAM_ADMIN_ONLY") || publicCore.includes("When the owner
 }
 const editions = [
   { id: "job-search-sam-admin", title: "Job Search SAM Admin", short: "Administer Job Search SAM", version: "0.1.2", description: "Private owner workflow for maintaining the Job Search SAM master and coordinating releases.", skill: master },
-  { id: "job-search-sam-subscriber", title: "Job Search SAM Public", short: "Guided job search", version: "0.1.5", description: "Guided job search and application preparation using available tools.", skill: publicCore }
+  { id: "job-search-sam-subscriber", title: "Job Search SAM Public", short: "Guided job search", version: "0.1.6", description: "Guided job search and application preparation using available tools.", skill: publicCore }
 ];
 for (const edition of editions) {
   const manifest = structuredClone(source);
