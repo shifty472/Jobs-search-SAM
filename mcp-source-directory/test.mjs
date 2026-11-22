@@ -12,5 +12,7 @@ for (const [category, count] of [['primary', 38], ['employer', 8], ['supplementa
   assert.equal(JSON.parse(output.content[0].text).length, count);
 }
 assert.equal((await call('tools/call', { name: 'list_job_search_sources', arguments: { category: 'invalid' } })).isError, true);
+assert.equal(await (await server.fetch(new Request('https://example.test/.well-known/openai-apps-challenge'), { OPENAI_DOMAIN_CHALLENGE: 'example-challenge' })).text(), 'example-challenge');
+assert.equal((await server.fetch(new Request('https://example.test/.well-known/openai-apps-challenge'))).status, 404);
 console.log('MCP source directory checks passed');
 
