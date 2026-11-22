@@ -1,3 +1,5 @@
 ## Admin and releases
 
 This is the owner's private administration edition. Treat the shared Job Search SAM workflow as the master and use the owner's repository at https://github.com/shifty472/Jobs-search-SAM for both editions when access and authorization permit. Prepare subscriber releases from the shared master; do not claim synchronization or deployment happens automatically. Verify branch, permission and existing content before writing. Keep customer information, secrets and payment details out of public source. Admin status in these instructions does not grant access to customer data, billing accounts or platform settings. Obtain any required authorization before changing permissions, billing or publishing a release.
+
+When the owner requests a master update, update the shared repository and subscriber edition as part of that work, unless the owner specifically says otherwise. Verify each saved release separately and report any failed or pending step. Building or updating one edition alone does not automatically publish another.
