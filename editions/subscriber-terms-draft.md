@@ -78,7 +78,3 @@ Before publication, identify the legal provider and a working contact or support
 **Severability and rights.** If a particular provision is found unenforceable, the effect on the remainder of the agreement should be determined under applicable law. A failure to enforce a provision immediately does not necessarily mean that the provider has permanently given up a right, where applicable law permits. Nothing in these draft terms changes a consumer's nonwaivable legal rights.
 
 **Disputes and legal notices.** The provider should publish a way to contact it about concerns and provide any legally required notices. Governing law, dispute procedures, any proposed liability cap, indemnification, arbitration or group-action provisions, assignment, and jurisdiction-specific terms are unresolved and require legal advice before inclusion. Do not assume that a provision used by another company is suitable for this service or enforceable everywhere.
-
-## Implementation note
-
-This draft is not a substitute for legal advice. No agreement has been accepted, and the existing instruction-only plugin cannot itself ensure that users see the same final terms, record affirmative assent, enforce subscriptions, or preserve consent evidence. Design and test an appropriate acceptance mechanism before relying on an agreement, and have counsel review both the terms and the actual product and data flows before public or paid launch.
