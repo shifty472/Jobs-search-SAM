@@ -14,7 +14,7 @@ The workflow uses information provided by the user to understand job preferences
 
 ## Where information goes
 
-The plugin runs through the host platform. Information submitted through the host is processed by that platform. When users separately authorize connected tools, websites, email providers, or employers, those parties may receive information necessary to perform the chosen action and apply their own policies. Users should review destinations and permissions before sharing. This version does not use a separate developer-operated database to collect users' job-search information.
+The plugin runs through the host platform. Information submitted through the host is processed by that platform. When users separately authorize connected tools, websites, email providers, or employers, those parties may receive information necessary to perform the chosen action and apply their own policies. Users should review destinations and permissions before sharing. This version does not use a separate developer-operated database to collect users' job-search information. The job-source directory runs on Cloudflare Workers. When the host or a user calls the directory, Cloudflare processes the request and associated technical information under its own policies. The directory accepts an optional source category and returns public source links; it is not intended for resumes, identity details, application answers, or other sensitive information. Do not send those details to the directory.
 
 ## Retention and deletion
 
