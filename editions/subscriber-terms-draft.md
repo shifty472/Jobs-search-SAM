@@ -65,6 +65,20 @@ The creator plans a $10 USD monthly subscription, but billing, checkout, cancell
 
 Before publication, identify the legal provider and a working contact or support channel, specify the actual process for notifying users of material changes, and obtain advice about applicable law, jurisdiction, dispute resolution, and consumer rights. Do not add governing-law, arbitration, class-waiver, indemnification, or claims-deadline provisions without a qualified legal review of their suitability and enforceability. Users may report issues at https://github.com/shifty472/Jobs-search-SAM/issues; GitHub issues are public, so users should not post sensitive information there.
 
+### Additional provisions for legal review
+
+**Eligibility and access.** Users must be eligible to use the host platform and any connected services. Where the law requires a parent or guardian's consent, the applicable platform rules and legal requirements apply. The provider must determine any additional age or geographic restrictions before launch.
+
+**Rights in the service.** The provider and applicable licensors retain their rights in the plugin's branding, documentation, and original service materials. A user receives only the permission to access and use the service described in the final terms; no ownership in the service is transferred. The provider must confirm its actual ownership, licenses, and permitted-use rules before adopting this provision.
+
+**Requests, service limitations, and suspension.** If access is restricted or the service changes, the provider should follow the final notice and support process and applicable law. Where appropriate, the process should explain how a user can request review of a restriction or contact support. Any exceptions for urgent security, legal, or operational reasons should be reviewed by counsel and reflected in the actual service procedures.
+
+**Entire agreement and conflicting terms.** The final documents should identify which terms apply to the plugin, any paid subscription, and the host platform or connected services, and explain how conflicts between the provider's own documents are handled. The provider cannot change a third party's agreement by writing terms for SAM.
+
+**Severability and rights.** If a particular provision is found unenforceable, the effect on the remainder of the agreement should be determined under applicable law. A failure to enforce a provision immediately does not necessarily mean that the provider has permanently given up a right, where applicable law permits. Nothing in these draft terms changes a consumer's nonwaivable legal rights.
+
+**Disputes and legal notices.** The provider should publish a way to contact it about concerns and provide any legally required notices. Governing law, dispute procedures, any proposed liability cap, indemnification, arbitration or group-action provisions, assignment, and jurisdiction-specific terms are unresolved and require legal advice before inclusion. Do not assume that a provision used by another company is suitable for this service or enforceable everywhere.
+
 ## Implementation note
 
 This draft is not a substitute for legal advice. No agreement has been accepted, and the existing instruction-only plugin cannot itself ensure that users see the same final terms, record affirmative assent, enforce subscriptions, or preserve consent evidence. Design and test an appropriate acceptance mechanism before relying on an agreement, and have counsel review both the terms and the actual product and data flows before public or paid launch.
