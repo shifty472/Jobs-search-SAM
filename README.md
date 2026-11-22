@@ -7,7 +7,7 @@ Job Search SAM can produce inaccurate, incomplete, outdated, or biased informati
 
 The [AI Use Statement and Terms of Use](editions/subscriber-terms-draft.md) explains these risks, the proposed user agreement, third-party services and fees, privacy and security considerations, and limitations of liability. It is a draft for review, not an operative or accepted agreement.
 
-Before public launch, the provider must finalize and publish appropriate terms and a privacy policy, arrange legal review, and implement any required agreement-acceptance and security processes. The public-use edition is free and remains private until it is approved and published.
+A [privacy policy draft](docs/privacy-policy-draft.md) is available for review. Before public launch, the provider must finalize and publish appropriate terms and a privacy policy, arrange legal review, and implement any required agreement-acceptance and security processes. The public-use edition is free and remains private until it is approved and published.
 
 ## Admin master and public edition
 
