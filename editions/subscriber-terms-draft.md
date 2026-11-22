@@ -1,5 +1,5 @@
 # Job Search SAM Subscriber
-## Draft AI Use Statement and Terms of Use
+## AI Use Statement and Terms of Use
 
 **Draft for the developer and legal counsel to review.** These terms have not been finalized, published, or made binding. This document does not establish that a user has accepted them. The current subscriber edition is a private draft; payment processing and subscription enforcement are not active.
 
