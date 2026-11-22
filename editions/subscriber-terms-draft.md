@@ -1,7 +1,7 @@
-# Job Search SAM Subscriber
+# Job Search SAM Public
 ## AI Use Statement and Terms of Use
 
-**Draft for the developer and legal counsel to review.** These terms have not been finalized, published, or made binding. This document does not establish that a user has accepted them. The current subscriber edition is a private draft; payment processing and subscription enforcement are not active.
+**Draft for the developer and legal counsel to review.** These terms have not been finalized, published, or made binding. This document does not establish that a user has accepted them. The current public-use edition is a private draft. The provider does not require a Job Search SAM subscription or payment.
 
 ## AI use statement
 
@@ -9,13 +9,13 @@ Job Search SAM uses artificial intelligence to help with job searches and applic
 
 Review the source posting, employer identity, job terms, application answers, documents, recipients and attachments before relying on or submitting them. You are responsible for deciding whether an opportunity is appropriate and for checking the accuracy of information you authorize for submission. SAM does not guarantee an interview, offer, employment, salary, complete search coverage, uninterrupted service, or a successful submission. AI output is not legal, financial, medical, immigration or other professional advice.
 
-Do not enter passwords, payment-card information, government identification numbers, patient information, or other highly sensitive details unless needed and you understand which provider will receive them. Information submitted to ChatGPT and optional connected services is handled under those providers' terms and privacy practices. No system can promise perfect security. Review application and sharing permissions before authorizing an action.
+Do not provide passwords, one-time codes, payment-card information, government identification numbers, protected health information, or other authentication secrets to the plugin. Remove such information from documents before uploading them. Information submitted to ChatGPT and optional connected services is handled under those providers' terms and privacy practices. No system can promise perfect security. Review application and sharing permissions before authorizing an action.
 
 ## Proposed terms of use
 
 ### 1. Scope and voluntary use
 
-Job Search SAM Subscriber is a guided job-search and application-preparation workflow provided by [legal provider name]. Use is voluntary. These terms are intended to apply only after the provider has made the final version available and the user has had a reasonable opportunity to review and affirmatively accept it through a suitable acceptance process. The applicable version, effective date, and acceptance record must be established before launch. The user's statutory rights remain unaffected.
+Job Search SAM Public is a guided job-search and application-preparation workflow provided by [legal provider name]. Use is voluntary. These terms are intended to apply only after the provider has made the final version available and the user has had a reasonable opportunity to review and affirmatively accept it through a suitable acceptance process. The applicable version, effective date, and acceptance record must be established before launch. The user's statutory rights remain unaffected.
 
 ### 2. What the service does
 
@@ -23,7 +23,7 @@ SAM helps users express preferences, research jobs using available tools, and pr
 
 ### 3. Your choices and responsibilities
 
-You decide whether to use the service, upload information, connect third-party accounts, apply to a role, and authorize an action. Provide accurate information and review any AI-generated content, third-party offer, consent request, payment request, and submission before proceeding. You are responsible for the accuracy and lawfulness of materials you provide and for decisions you make using the service, subject to applicable law. You may decline to provide optional information and may stop using the service, subject to any applicable subscription terms.
+You decide whether to use the service, upload information, connect third-party accounts, apply to a role, and authorize an action. Provide accurate information and review any AI-generated content, third-party offer, consent request, payment request, and submission before proceeding. You are responsible for the accuracy and lawfulness of materials you provide and for decisions you make using the service, subject to applicable law. You may decline to provide optional information and may stop using the service, subject to applicable platform or third-party terms.
 
 ### 4. Third-party services and costs
 
@@ -37,7 +37,7 @@ Unauthorized access, breaches, service failures, or accidental disclosures may o
 
 ### Acceptable use and account security
 
-Use SAM and any connected services lawfully and in accordance with applicable platform and third-party terms. Do not use the service to impersonate another person, provide false application information, harass others, distribute malicious software, interfere with systems, or access information or accounts without authorization. Use only materials you have the right to provide. You are responsible for maintaining the security of your own accounts and for reviewing the permissions you grant. The provider may restrict or suspend access where necessary to address misuse, security risks, legal requirements, or service availability, subject to applicable law and the final subscription and refund terms.
+Use SAM and any connected services lawfully and in accordance with applicable platform and third-party terms. Do not use the service to impersonate another person, provide false application information, harass others, distribute malicious software, interfere with systems, or access information or accounts without authorization. Use only materials you have the right to provide. You are responsible for maintaining the security of your own accounts and for reviewing the permissions you grant. The provider may restrict or suspend access where necessary to address misuse, security risks, legal requirements, or service availability, subject to applicable law and the applicable terms.
 
 ### Your materials and generated content
 
@@ -45,7 +45,7 @@ You retain the rights you have in the resume, writing samples, and other materia
 
 ### Changes and ending use
 
-The provider may update, suspend, or discontinue features, subject to applicable law and the final subscription terms. The provider should identify the actual method for notifying users of material changes before publication. Users may stop using SAM at any time; when paid subscriptions are implemented, the final agreement must explain how to cancel and what happens to access, billing and data. Cancellation and deletion are distinct: users should consult the applicable platform and connected services for how to remove information they hold.
+The provider may update, suspend, or discontinue features, subject to applicable law. The provider should identify the actual method for notifying users of material changes before publication. Users may stop using SAM at any time; users should review how to manage or delete information in the services they choose to use. Stopping use and deleting data are distinct: users should consult the applicable platform and connected services for how to remove information they hold.
 
 ### 6. AI limitations and no guarantee
 
@@ -57,9 +57,9 @@ To the fullest extent permitted by applicable law, the provider and its owner, d
 
 Nothing in these proposed terms excludes or limits liability or remedies that applicable law does not allow to be excluded or limited. Enforceability, the persons covered, the types of damages that may be limited, and any liability cap require legal review for the jurisdictions where the service is offered. This clause does not promise immunity from a lawsuit or regulatory action.
 
-### 8. Subscriptions and charges
+### 8. Use of SAM and third-party charges
 
-The creator plans a $10 USD monthly subscription, but billing, checkout, cancellation, refunds, taxes and access control are not yet implemented. Before charging users, the provider must specify and clearly disclose the actual price, billing interval, renewal terms, taxes or additional charges where applicable, cancellation method and effect, refund policy, and payment processor, and obtain any required consent. Do not present the proposed price as an active subscription until those systems and terms exist.
+The provider does not require a fee or subscription for this edition of Job Search SAM. Other services that users independently choose to use, including ChatGPT or job-search providers, may have their own fees and terms. Review those services' charges before accepting them.
 
 ### 9. Updates, contact and applicable law
 
@@ -73,7 +73,7 @@ Before publication, identify the legal provider and a working contact or support
 
 **Requests, service limitations, and suspension.** If access is restricted or the service changes, the provider should follow the final notice and support process and applicable law. Where appropriate, the process should explain how a user can request review of a restriction or contact support. Any exceptions for urgent security, legal, or operational reasons should be reviewed by counsel and reflected in the actual service procedures.
 
-**Entire agreement and conflicting terms.** The final documents should identify which terms apply to the plugin, any paid subscription, and the host platform or connected services, and explain how conflicts between the provider's own documents are handled. The provider cannot change a third party's agreement by writing terms for SAM.
+**Entire agreement and conflicting terms.** The final documents should identify which terms apply to the plugin, the host platform, and connected services, and explain how conflicts between the provider's own documents are handled. The provider cannot change a third party's agreement by writing terms for SAM.
 
 **Severability and rights.** If a particular provision is found unenforceable, the effect on the remainder of the agreement should be determined under applicable law. A failure to enforce a provision immediately does not necessarily mean that the provider has permanently given up a right, where applicable law permits. Nothing in these draft terms changes a consumer's nonwaivable legal rights.
 
