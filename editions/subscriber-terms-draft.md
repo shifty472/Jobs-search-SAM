@@ -15,7 +15,7 @@ Do not provide passwords, one-time codes, payment-card information, government i
 
 ### 1. Scope and voluntary use
 
-Job Search SAM Public is a guided job-search and application-preparation workflow provided by [legal provider name]. Use is voluntary. These terms are intended to apply only after the provider has made the final version available and the user has had a reasonable opportunity to review and affirmatively accept it through a suitable acceptance process. The applicable version, effective date, and acceptance record must be established before launch. The user's statutory rights remain unaffected.
+Job Search SAM Public is a guided job-search and application-preparation workflow provided by Jacob Lewandowski as an individual. Use is voluntary. These terms are intended to apply only after the provider has made the final version available and the user has had a reasonable opportunity to review and affirmatively accept it through a suitable acceptance process. The applicable version, effective date, and acceptance record must be established before launch. The user's statutory rights remain unaffected.
 
 ### 2. What the service does
 
