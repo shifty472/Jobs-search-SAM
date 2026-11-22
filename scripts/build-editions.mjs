@@ -20,12 +20,13 @@ if (publicCore.includes("SAM_ADMIN_ONLY") || publicCore.includes("When the owner
 }
 const editions = [
   { id: "job-search-sam-admin", title: "Job Search SAM Admin", short: "Administer Job Search SAM", version: "0.1.2", description: "Private owner workflow for maintaining the Job Search SAM master and coordinating releases.", skill: master },
-  { id: "job-search-sam-subscriber", title: "Job Search SAM Public", short: "Guided job search", version: "0.1.4", description: "Guided job search and application preparation using available tools.", skill: publicCore }
+  { id: "job-search-sam-subscriber", title: "Job Search SAM Public", short: "Guided job search", version: "0.1.5", description: "Guided job search and application preparation using available tools.", skill: publicCore }
 ];
 for (const edition of editions) {
   const manifest = structuredClone(source);
   manifest.name = edition.id; manifest.version = edition.version; manifest.description = edition.description;
   if (manifest.author) delete manifest.author.email;
+  if (edition.id === "job-search-sam-subscriber") manifest.extensions["com.openai"].onboardingSkill = "./skills/job-search-sam-subscriber/SKILL.md";
   const ui = manifest.extensions["com.openai"].interface;
   ui.displayName = edition.title; ui.shortDescription = edition.short;
   ui.longDescription = edition.id === "job-search-sam-admin"
