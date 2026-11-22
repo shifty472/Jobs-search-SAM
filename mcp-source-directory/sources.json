@@ -1,0 +1,383 @@
+[
+  {
+    "name": "Bandana",
+    "url": "https://bandana.com/",
+    "category": "primary"
+  },
+  {
+    "name": "Indeed",
+    "url": "https://www.indeed.com/",
+    "category": "primary"
+  },
+  {
+    "name": "FlexJobs",
+    "url": "https://www.flexjobs.com/",
+    "category": "primary"
+  },
+  {
+    "name": "RemoteJobs.io",
+    "url": "https://www.remotejobs.io/",
+    "category": "primary"
+  },
+  {
+    "name": "Wellfound",
+    "url": "https://wellfound.com/candidates/overview/",
+    "category": "primary"
+  },
+  {
+    "name": "Arc",
+    "url": "https://arc.dev/",
+    "category": "primary"
+  },
+  {
+    "name": "Contra",
+    "url": "https://contra.com/?view=projects",
+    "category": "primary"
+  },
+  {
+    "name": "JustRemote",
+    "url": "https://justremote.co/",
+    "category": "primary"
+  },
+  {
+    "name": "Remote OK",
+    "url": "https://remoteok.com/",
+    "category": "primary"
+  },
+  {
+    "name": "Remotive",
+    "url": "https://remotive.com/",
+    "category": "primary"
+  },
+  {
+    "name": "We Work Remotely",
+    "url": "https://weworkremotely.com/",
+    "category": "primary"
+  },
+  {
+    "name": "NoDesk",
+    "url": "https://nodesk.co/",
+    "category": "primary"
+  },
+  {
+    "name": "Truly Remote",
+    "url": "https://trulyremote.co/",
+    "category": "primary"
+  },
+  {
+    "name": "Idealist",
+    "url": "https://www.idealist.org/en/jobs",
+    "category": "primary"
+  },
+  {
+    "name": "Conservation Job Board",
+    "url": "https://www.conservationjobboard.com/search",
+    "category": "primary"
+  },
+  {
+    "name": "Work for Good",
+    "url": "https://workforgood.org/",
+    "category": "primary"
+  },
+  {
+    "name": "MassCareers",
+    "url": "https://massanf.taleo.net/careersection/ex/jobsearch.ftl",
+    "category": "primary"
+  },
+  {
+    "name": "MassHire JobQuest",
+    "url": "https://www.mass.gov/info-details/find-a-job-or-career-support",
+    "category": "primary"
+  },
+  {
+    "name": "Staff Me Up",
+    "url": "https://app.staffmeup.com/jobs",
+    "category": "primary"
+  },
+  {
+    "name": "CoolWorks",
+    "url": "https://www.coolworks.com/",
+    "category": "primary"
+  },
+  {
+    "name": "Mediabistro",
+    "url": "https://www.mediabistro.com/",
+    "category": "primary"
+  },
+  {
+    "name": "JobsInLogistics",
+    "url": "https://www.jobsinlogistics.com/",
+    "category": "primary"
+  },
+  {
+    "name": "USAJOBS",
+    "url": "https://www.usajobs.gov/",
+    "category": "primary"
+  },
+  {
+    "name": "GovernmentJobs",
+    "url": "https://www.governmentjobs.com/",
+    "category": "primary"
+  },
+  {
+    "name": "LinkedIn Jobs",
+    "url": "https://www.linkedin.com/jobs/",
+    "category": "primary"
+  },
+  {
+    "name": "Glassdoor Jobs",
+    "url": "https://www.glassdoor.com/Job/index.htm",
+    "category": "primary"
+  },
+  {
+    "name": "SimplyHired",
+    "url": "https://www.simplyhired.com/",
+    "category": "primary"
+  },
+  {
+    "name": "ZipRecruiter",
+    "url": "https://www.ziprecruiter.com/",
+    "category": "primary"
+  },
+  {
+    "name": "Monster",
+    "url": "https://www.monster.com/",
+    "category": "primary"
+  },
+  {
+    "name": "Joblist",
+    "url": "https://www.joblist.com/",
+    "category": "primary"
+  },
+  {
+    "name": "Jooble",
+    "url": "https://jooble.org/",
+    "category": "primary"
+  },
+  {
+    "name": "Ladders",
+    "url": "https://www.theladders.com/",
+    "category": "primary"
+  },
+  {
+    "name": "Built In",
+    "url": "https://builtin.com/jobs",
+    "category": "primary"
+  },
+  {
+    "name": "Welcome to the Jungle",
+    "url": "https://www.welcometothejungle.com/en/jobs",
+    "category": "primary"
+  },
+  {
+    "name": "4 Day Week",
+    "url": "https://4dayweek.io/",
+    "category": "primary"
+  },
+  {
+    "name": "Dice",
+    "url": "https://www.dice.com/",
+    "category": "primary"
+  },
+  {
+    "name": "Snagajob",
+    "url": "https://www.snagajob.com/",
+    "category": "primary"
+  },
+  {
+    "name": "Vivian Health",
+    "url": "https://www.vivian.com/",
+    "category": "primary"
+  },
+  {
+    "name": "Gartner",
+    "url": "https://jobs.gartner.com/jobs/",
+    "category": "employer"
+  },
+  {
+    "name": "Elastic",
+    "url": "https://jobs.elastic.co/",
+    "category": "employer"
+  },
+  {
+    "name": "Genpact",
+    "url": "https://www.genpact.com/careers",
+    "category": "employer"
+  },
+  {
+    "name": "Abnormal AI",
+    "url": "https://abnormal.ai/careers",
+    "category": "employer"
+  },
+  {
+    "name": "TELUS Digital",
+    "url": "https://www.telusdigital.com/careers",
+    "category": "employer"
+  },
+  {
+    "name": "Southwest Airlines",
+    "url": "https://careers.southwestair.com/",
+    "category": "employer"
+  },
+  {
+    "name": "United Airlines",
+    "url": "https://careers.united.com/",
+    "category": "employer"
+  },
+  {
+    "name": "Netflix",
+    "url": "https://explore.jobs.netflix.net/careers",
+    "category": "employer"
+  },
+  {
+    "name": "Craigslist",
+    "url": "https://www.craigslist.org/",
+    "category": "supplemental"
+  },
+  {
+    "name": "Facebook",
+    "url": "https://www.facebook.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "Fiverr",
+    "url": "https://www.fiverr.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "VeriiPro",
+    "url": "https://veriipro.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "Levels.fyi Jobs",
+    "url": "https://www.levels.fyi/",
+    "category": "supplemental"
+  },
+  {
+    "name": "iHireEngineering",
+    "url": "https://www.ihireengineering.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "NSPE Career Center",
+    "url": "https://www.nspe.org/",
+    "category": "supplemental"
+  },
+  {
+    "name": "EngineeringJobs.net",
+    "url": "https://www.engineeringjobs.net/",
+    "category": "supplemental"
+  },
+  {
+    "name": "GetCADjobs",
+    "url": "https://www.getcadjobs.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "Contract Job Hunter",
+    "url": "https://www.cjhunter.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "Behance",
+    "url": "https://www.behance.net/",
+    "category": "supplemental"
+  },
+  {
+    "name": "Dribbble",
+    "url": "https://dribbble.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "Handshake",
+    "url": "https://join.handshake.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "College Recruiter",
+    "url": "https://www.collegerecruiter.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "ClearanceJobs",
+    "url": "https://www.clearancejobs.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "Jobright",
+    "url": "https://jobright.ai/",
+    "category": "supplemental"
+  },
+  {
+    "name": "EnergyJobShop",
+    "url": "https://www.energyjobshop.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "Accounting Jobs Today",
+    "url": "https://jobboard.accountingjobstoday.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "iHireAccounting",
+    "url": "https://www.ihireaccounting.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "AccountingCrossing",
+    "url": "https://www.accountingcrossing.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "LawJobs",
+    "url": "https://lawjobs.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "Fairygodboss",
+    "url": "https://fairygodboss.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "RecruitMilitary",
+    "url": "https://recruitmilitary.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "Health eCareers",
+    "url": "https://www.healthecareers.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "Health Jobs Nationwide",
+    "url": "https://www.healthjobsnationwide.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "MedJobCafe",
+    "url": "https://www.medjobcafe.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "Hospital Careers",
+    "url": "https://hospitalcareers.com/",
+    "category": "supplemental"
+  },
+  {
+    "name": "Layboard",
+    "url": "https://layboard.in/",
+    "category": "supplemental"
+  },
+  {
+    "name": "ProBlogger",
+    "url": "https://problogger.com/",
+    "category": "supplemental"
+  }
+]
+
