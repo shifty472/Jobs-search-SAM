@@ -4,7 +4,7 @@ This is a working draft based on the current instruction-only plugin. It is not 
 
 ## Service and contact
 
-Job Search SAM is a free guided job-search workflow. The legal provider is [to be confirmed]. Users can contact the provider through https://github.com/shifty472/Jobs-search-SAM/issues. GitHub issues are public; do not include resumes, disability information, contact details, credentials, or other sensitive information in a public issue.
+Job Search SAM is a free guided job-search workflow. The provider is Jacob Lewandowski, acting as an individual. Users can contact the provider through https://github.com/shifty472/Jobs-search-SAM/issues. GitHub issues are public; do not include resumes, disability information, contact details, credentials, or other sensitive information in a public issue.
 
 ## Information users may provide
 
