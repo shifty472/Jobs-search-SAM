@@ -1,0 +1,48 @@
+{
+  "positive": [
+    {
+      "description": "List the complete source directory, using the default category selection.",
+      "prompt": "Show me all the job search sources SAM knows about.",
+      "tools_triggered": "list_job_search_sources with no category",
+      "expected_behavior": "Return the 76 sources in the tool response: 38 primary boards, eight employer sites and 30 supplemental sources. Describe this as a directory, not as live job listings."
+    },
+    {
+      "description": "Filter the primary source list.",
+      "prompt": "Show me the primary job boards I can use for my search.",
+      "tools_triggered": "list_job_search_sources with category primary",
+      "expected_behavior": "Return the 38 primary sources supplied by the tool, with their links. Do not claim to have searched them."
+    },
+    {
+      "description": "Filter the employer career sources.",
+      "prompt": "Which employer career sites are in SAM's source list?",
+      "tools_triggered": "list_job_search_sources with category employer",
+      "expected_behavior": "Return the eight employer career sites and their URLs from the tool response."
+    },
+    {
+      "description": "Filter the supplemental sources.",
+      "prompt": "Show me SAM's supplemental job-search sources.",
+      "tools_triggered": "list_job_search_sources with category supplemental",
+      "expected_behavior": "Return the 30 supplemental sources and their URLs. Identify them as supplemental."
+    },
+    {
+      "description": "Locate a named employer within a category.",
+      "prompt": "What is the Netflix careers link in SAM's employer source list?",
+      "tools_triggered": "list_job_search_sources with category employer",
+      "expected_behavior": "Use the returned Netflix entry and report https://explore.jobs.netflix.net/careers. Do not claim a job was found."
+    }
+  ],
+  "negative": [
+    {
+      "description": "The directory cannot submit job applications. Do not invoke the directory tool as if it could apply.",
+      "prompt": "Use your job-source server to submit an application for me."
+    },
+    {
+      "description": "The directory has no personal storage. Do not invoke it to save or transmit a resume; explain the limit and use an authorized private storage tool only if one is available.",
+      "prompt": "Store my resume and personal application details in the SAM source directory."
+    },
+    {
+      "description": "The server returns source links, not current listings. Do not claim its source list proves a vacancy exists or call it a live job-search tool; use other available authorized search tools if appropriate.",
+      "prompt": "Use only the SAM source directory to show me currently open jobs and confirm they are still available."
+    }
+  ]
+}
