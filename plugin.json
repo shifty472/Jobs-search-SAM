@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "JACOB LEWANDOWSKI"
+  },
+  "description": "A guided job search and application preparation workflow.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [
+          "Interactive"
+        ],
+        "category": "Productivity",
+        "composerIcon": "./assets/icon.svg",
+        "defaultPrompt": "Help me set up my job search and prepare applications.",
+        "developerName": "JACOB LEWANDOWSKI",
+        "displayName": "Job Search SAM",
+        "logo": "./assets/icon.svg",
+        "longDescription": "Guides job seekers through preferences, job research, tailored application materials, approval, and application tracking using tools available in their session.",
+        "shortDescription": "Your job search assistant"
+      }
+    }
+  },
+  "name": "job-search-sam",
+  "version": "0.1.2"
+}
