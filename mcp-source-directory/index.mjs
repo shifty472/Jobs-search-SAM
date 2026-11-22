@@ -8,8 +8,12 @@ const tool = {
 };
 
 export default {
-  async fetch(request) {
-    if (new URL(request.url).pathname !== '/mcp') return new Response('Not found', { status: 404 });
+  async fetch(request, env = {}) {
+    const path = new URL(request.url).pathname;
+    if (path === '/.well-known/openai-apps-challenge' && request.method === 'GET' && env.OPENAI_DOMAIN_CHALLENGE) {
+      return new Response(env.OPENAI_DOMAIN_CHALLENGE, { headers: { 'content-type': 'text/plain; charset=utf-8' } });
+    }
+    if (path !== '/mcp') return new Response('Not found', { status: 404 });
     if (request.method !== 'POST') return new Response('Method not allowed', { status: 405, headers: { Allow: 'POST' } });
     let body;
     try { body = await request.json(); } catch { return new Response('Invalid JSON', { status: 400 }); }
