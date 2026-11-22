@@ -35,6 +35,18 @@ The user may choose to provide resumes, writing samples, job preferences, and ap
 
 Unauthorized access, breaches, service failures, or accidental disclosures may occur. To the fullest extent permitted by law, the provider disclaims liability for unauthorized acts of independent third parties and disclosures outside the provider's reasonable control. This provision does not waive obligations that cannot legally be excluded or limit any rights the law does not allow users to waive. A separate, accurate privacy policy and any required security or breach-response practices must be established before launch.
 
+### Acceptable use and account security
+
+Use SAM and any connected services lawfully and in accordance with applicable platform and third-party terms. Do not use the service to impersonate another person, provide false application information, harass others, distribute malicious software, interfere with systems, or access information or accounts without authorization. Use only materials you have the right to provide. You are responsible for maintaining the security of your own accounts and for reviewing the permissions you grant. The provider may restrict or suspend access where necessary to address misuse, security risks, legal requirements, or service availability, subject to applicable law and the final subscription and refund terms.
+
+### Your materials and generated content
+
+You retain the rights you have in the resume, writing samples, and other materials you provide. You are responsible for having any permissions needed to use them. Rights in AI-generated content, and any permissions granted to platform or connected-service providers to process inputs, depend on applicable law and those providers' terms. Review generated content before using it; SAM does not guarantee that generated material is original, accurate, or free from third-party rights.
+
+### Changes and ending use
+
+The provider may update, suspend, or discontinue features, subject to applicable law and the final subscription terms. The provider should identify the actual method for notifying users of material changes before publication. Users may stop using SAM at any time; when paid subscriptions are implemented, the final agreement must explain how to cancel and what happens to access, billing and data. Cancellation and deletion are distinct: users should consult the applicable platform and connected services for how to remove information they hold.
+
 ### 6. AI limitations and no guarantee
 
 The AI use statement above forms part of these proposed terms. To the fullest extent permitted by applicable law, the service and its outputs are provided on an “as available” and “as is” basis, without warranties of accuracy, completeness, uninterrupted availability, suitability for a particular purpose, or a particular employment outcome. Mandatory warranties and rights that cannot lawfully be disclaimed remain in effect. Do not rely on an AI-generated response without checking it.
