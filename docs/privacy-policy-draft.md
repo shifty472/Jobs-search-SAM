@@ -20,7 +20,7 @@ The plugin runs through the host platform. Information submitted through the hos
 
 ## Retention and deletion
 
-The developer does not currently operate a separate application database for this plugin. The host platform and any storage or connected services the user chooses may retain information according to their own settings and policies. Users should use those services' controls to manage or delete their information. For information posted to the public support issue tracker, the provider must confirm and publish its actual retention and deletion process, including any applicable legal obligations, before finalizing this policy. Do not promise a specific retention period until it has been established.
+The developer does not currently operate a separate application database for this plugin. The host platform and any storage or connected services the user chooses may retain information according to their own settings and policies. Users should use those services' controls to manage or delete their information. Support requests posted as GitHub issues remain on GitHub until the provider removes them or the person who posted them requests removal, subject to applicable law and GitHub's systems and policies. GitHub may retain copies or records under its own policies. Contact the provider through the support channel to request removal, and do not include sensitive information in a public request.
 
 ## Security and choices
 
