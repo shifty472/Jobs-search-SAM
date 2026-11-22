@@ -24,6 +24,7 @@ for (const v of versions) {
   await writeFile(join(output, "plugin.json"), JSON.stringify(manifest, null, 2) + "\n");
   await writeFile(join(output, "skills", v.id, "SKILL.md"), skill);
   await writeFile(join(output, "skills", v.id, "references", "job-sources.md"), sources);
+  if (v.id === "job-search-sam-subscriber") await copyFile("editions/subscriber-terms-draft.md", join(output, "skills", v.id, "references", "ai-terms-draft.md"));
   await copyFile("assets/icon.svg", join(output, "assets", "icon.svg"));
   console.log("Built " + output);
 }
