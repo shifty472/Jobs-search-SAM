@@ -1,7 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "job-search-sam-sources",
+  "name": "jobs-search-sam",
   "main": "index.mjs",
   "compatibility_date": "2026-11-22"
 }
-
