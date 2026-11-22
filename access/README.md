@@ -1,4 +1,6 @@
-# Subscriber access-control prototype
+# Archived subscriber access-control prototype
+
+**Archived:** The public-use plugin is now intended to be free and does not require subscriber access checks. This unconnected prototype is retained only for reference and is not part of the public plugin.
 
 This is a local server-side policy prototype for Job Search SAM. It does not implement OAuth, verify real tokens, contact Stripe, store subscriptions, connect to ChatGPT, expose an MCP endpoint, or protect the current instruction-only plugin. Do not deploy it as a production access-control system.
 
